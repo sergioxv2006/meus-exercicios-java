@@ -1,2 +1,2 @@
-# meus-exercicios-java
-Códigos na linguagem Java para prática.
+# Curso Java
+Repositório Github do Curso Java
