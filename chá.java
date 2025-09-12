@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class chá {
-
     public static void main(String[] args) {
 
         // Cria um objeto Scanner para ler a entrada do usuário
